@@ -1,0 +1,9 @@
+chức năng: 
+	Admin: CRUD danh mục, sản phẩm, chuyên mục, bài viết, đơn vị tiền
+	       Quản lý user, đơn hàng, 
+	       Đăng nhập phân quyền
+	Client: Đăng ký, đăng nhập, lọc sản phẩm, tìm kiếm sản phẩm, đọc bài viết, 
+		mua hàng, bình luận, phân trang.
+	Các chức năng khác đang trong quá trình phát triển.
+	
+	
